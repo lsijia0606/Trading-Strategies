@@ -1,2 +1,5 @@
 # Trading-Strategies
-python library for trading strategies &amp; analyzing
+Providing a python library for trading strategies & analyzing
+
+## Category
+ ts_pairwise: pairwise trading strategy 
