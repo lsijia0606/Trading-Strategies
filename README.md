@@ -2,4 +2,5 @@
 Providing a python library for trading strategies & analyzing
 
 ## Category
- ts_pairwise: pairwise trading strategy 
+    ts_pairwise : Pairs Trading Strategy
+    ts_mean : Moving Average
